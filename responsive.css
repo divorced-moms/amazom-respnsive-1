@@ -1,0 +1,283 @@
+@media only screen and (max-width: 600px) {
+    .navbar-secs {
+        padding: 3px;
+    }
+    .small {
+        font-size: 0.4rem;
+    }
+    .navbar {
+        height: 40px;
+    }
+    .lerge {
+        font-size: 0.5rem;
+    }
+    .dna-font-small {
+        font-size: 0.3rem;
+    }
+    .dna-font-lerge {
+        font-size: 0.38rem;
+    }
+    .logo-area {
+        width: 50px;
+    }
+    .logo-area img {
+        width: 40px;
+    }
+    .navbar-secs {
+        padding: 3px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .country-section {
+        height: 20px;
+    }
+
+    .page {
+        font-size: 0.5rem;
+        color: white;
+    }
+    .cart-section {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .cart-section i {
+        font-size: 0.7rem;
+    }
+    .cart-section p {
+        font-size: 0.7rem;
+        margin-bottom: 7px;
+        margin-left: 2px;
+    }
+
+    .country-section {
+        height: 40px;
+    }
+    .country-section img {
+        width: 18px;
+        margin: 3px;
+    }
+
+
+    .location-icon {
+        padding:1px;
+    }
+
+    .location-icon i {
+       font-size: 0.8rem;
+       margin-right: 2px;
+    }
+
+    .search-dropdown {
+        height: 20px;
+        width: 15px;
+    }
+
+    .search-input {
+        width: 70%;
+        height: 20px;
+    }
+
+    .search-input input {
+        padding: 5px;
+        height: 20px;
+    }
+
+    .search-dropdown {
+        height: 20px;
+        width: 30px;
+    }
+    .search-dropdown select {
+        font-size: 0.4rem;
+    }
+
+    .search-button {
+        height: 20px;
+        width: 50px;
+    }
+    .search-button i {
+        font-size: 0.5rem;
+    }
+
+    .search-input {
+        height: 30px;
+    }
+
+    .bottom-header {
+        height: 30px;
+        width: 100vw;
+        font-size: 0.7rem;
+    }
+    .nav-sec-1 {
+        margin-left: 10px;
+    }
+    .navbar-seca p {
+        font-size: 0.6rem;
+        margin-left: 0px;
+    }
+    .ml-10 {
+        margin-left: 8px;
+    }
+    .hero-image {
+        width: 85vw;
+        height: 150px;
+        background-image: url(images/81KkrQWEHIL._SX3000_.jpg);
+        background-size: cover;
+    }
+    .box {
+        width: 45%;
+        background-color: white;
+        padding: 1rem;
+        margin: 5px 0px;
+    }
+    .box-heading h2 {
+        font-size: 0.68rem;
+    }
+    .box-heading h2 {
+        font-size: 0.68rem;
+    }
+    .box-text p {
+        font-size: 0.6rem;
+    }
+    .box-heading, .box-text {
+        margin: 3px 0px;
+    }
+    .group-box {
+        width: 45%;
+        background-color: white;
+        padding: 7px;
+    }
+    .semi-footer {
+        height: 70px;
+    }
+    .semi-main-footer {
+        height: 50px;
+  }
+  .semi-small {
+    font-size: 0.4rem;
+    margin: 0px;
+    }
+    .sign-in-buttom {
+        font-size: 0.5rem;
+        padding: 1px 70px;
+        border-radius: 5px;
+        margin: 2px;
+    }
+    .xs {
+        font-size: 0.4rem;
+    }
+    .back-to-top {
+    height: 20px;
+    width: 100vw;
+    font-size: 0.5rem;
+    }
+    .big-footer {
+        padding: 50px;
+        font-size: 0.4rem;
+        line-height: 0.5rem;
+    }
+    .frist-item {
+    font-size: 0.5rem !important;
+    font-weight: bold;
+    margin-bottom: 4px;
+    }
+    .semi-big-footer {
+        height: 3rem;
+    }
+    .sbf-logo {
+        height: 0.7rem;
+    }
+    .sbf-logo img {
+        width: 40px;
+        margin-right: 10px;
+    }
+    .fix-border {
+        padding: 2px 5px;
+        font-size: 0.37rem;
+    }
+    .sbf {
+        margin-left: 15px;
+    }
+    .flag {
+        width: 15px;
+        margin-right: 5px;
+    }
+    .sbf-logo {
+        height: 1rem;
+    }
+    .sbf-logo img {
+        width: 40px;
+        margin-right: 10px;
+    }
+    .fix-border i {
+        margin: 0px;
+        font-size:0.4rem ;
+    }
+    .fix-border i {
+        margin-right: 5px;
+        font-size:0.4rem ;
+    }
+    .sbf {
+        margin-left: 10px;
+    }
+    .box-heading, .box-text {
+        margin: 5px 0px;
+    }
+    .box-image {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .box-image img {
+        width: 15%;
+    }
+    .d-none, .milan, .madrid, .man-city{
+        display: none;
+    }
+    .big-box {
+        padding: 5px;
+    }
+    .box-image img {
+        width: 18%;
+    }
+    .footer-content {
+        width: 25%;
+    }
+    .footer-content p {
+        font-size: 0.4rem;
+        color: #999;
+        padding: 2px;
+        margin-top: 5px;
+        margin-right: 5px;
+    }
+    .ring {
+        color: #DDD;
+        font-size: 0.45rem;
+        line-height: 0.5rem;
+    }
+    .footer-area {
+        width: 100vw;
+        background-color: #131A22;
+        height: 410px;
+    }
+    .ground {
+        background-color:#131A22;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .lines {
+        color: rgb(180, 180, 180);
+        display: flex;
+        font-size: 0.5rem;
+    }
+    .mr-5 {
+        margin-right: 2px;
+    }
+    
+}
